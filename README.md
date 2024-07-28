@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WqnderAlone
-- 👀 I’m interested in programming, cybersecurity, and video editing.
-- 🌱 I’m currently learning about cybersecurity.
+- 👀 I’m interested in programming, music, and economics.
+- 🌱 I’m currently learning about AI/ML.
 - 📫 How to reach me: nobody likes a stalker. 
 
 <!---
