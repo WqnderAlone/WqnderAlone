@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @WqnderAlone
-- 👀 I’m love programming, physics, and music. 
+- 👋 Hi mom !
+- 👀 I love programming, physics, and music. 
 - 🌱 I’m currently learning about AI/ML.
 - 📫 How to reach me: tangnicholas26@gmail.com
 
